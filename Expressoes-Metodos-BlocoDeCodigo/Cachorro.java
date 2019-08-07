@@ -18,7 +18,6 @@ public class Cachorro {
         } else {
             System.out.println("false");
             return false;
-
         }
     }
 }
