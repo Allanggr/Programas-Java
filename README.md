@@ -3,4 +3,5 @@ Exercicios resolvidos, em estudos de programação no curso Udemy - [Java Progra
 
 
 - [x] Variáveis, Tipos de dados, Operados
-
+- [x] Instruções, Metodos, Bloco de Código
+- [x] Intruções de Controle de Fluxo
