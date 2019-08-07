@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        /*int result = 1 + 2;
+        int result = 1 + 2;
         System.out.println("1 + 2 = " + result);
 
         int previousResult = result;
@@ -31,7 +31,7 @@ public class Main {
 
         result = result ++;
         System.out.println("Result is now " + result);
-        */
+        
 
         double firstVar = 20d;
         double secondVar = 80d;
