@@ -11,12 +11,6 @@ public class BankAccount {
     //Methods
 
 
-    public BankAccount() {
-        this(56789, 2.50, "Default Name",
-                "Default address", "default phone");
-        System.out.println("Empty constructor called");
-    }
-
     public BankAccount(int accountNumber, double balance, String costumerName,
                        String email, String phoneNumber) {
 
@@ -37,7 +31,7 @@ public class BankAccount {
     }
 
     public void withdrawl(double withdrawlAmount){
-        if (withdrawlAmount >= getBalance()){
+        if (withdrawlAmount > getBalance()){
             System.out.println("Cannot withdrawl this value, insufficiente balance");
         }else {
             setBalance(getBalance() - withdrawlAmount);
