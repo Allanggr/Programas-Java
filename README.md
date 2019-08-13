@@ -7,4 +7,5 @@ Exercicios resolvidos, em estudos de programação no curso Udemy - [Java Progra
 - [x] Intruções de Controle de Fluxo
 - [x] POO - Classes, Construtores, Herança
 - [x] POO - Composição, Encapsulamento, Polimorfismo
-- [ ] Arrays, Listas, Autoboxing e Unboxing
+- [x] Arrays, Listas, Autoboxing e Unboxing
+- [ ] Classes Internas e Abstratas, e Interfaces
